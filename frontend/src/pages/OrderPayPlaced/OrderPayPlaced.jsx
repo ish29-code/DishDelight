@@ -9,7 +9,7 @@ const OrderPayPlaced = () => {
     useEffect(()=>{
      const timer = setTimeout(()=>{
           navigate('/');
-     },30000);
+     },10000);
      return()=>clearTimeout(timer);
     },[navigate]);
   return (
