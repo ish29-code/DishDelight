@@ -2,14 +2,14 @@
     margin: 50px 0px;
 }
 .my-orders h2{
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .my-orders .container{
     display: flex;
     flex-direction: column;
     gap: 20px;
     margin-top: 30px;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .my-orders-order{
     display: grid;
@@ -20,19 +20,19 @@
     padding: 10px 20px;
     color: #454545;
     border: 3.7px dotted rgb(248, 190, 1);
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .my-orders-order img{
     width: 50px;
 }
 .my-orders-order p span{
     color: tomato;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .my-orders-order p b{
     font-weight: 600;
     color: #383737;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .my-orders button{
     border: none;
@@ -43,7 +43,7 @@
     color: #f5f3f3;
     font-size: 17px;
     font-weight: 600;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 @media (max-width:900px) {
     .my-orders-order{
