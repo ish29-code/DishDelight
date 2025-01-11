@@ -10,7 +10,8 @@
 }
 
 .navbar-menu {
-    font-family: "Roboto", sans-serif;
+    /*font-family: "Roboto", sans-serif;*/
+    font-family: "Exo 2", sans-serif;
     display: flex;
     list-style: none;
     gap: 50px;
