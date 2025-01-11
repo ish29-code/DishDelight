@@ -1,4 +1,4 @@
-/*import express from "express";
+import express from "express";
 import cors from 'cors';
 import { connectDB } from "./config/db.js";
 import userRouter from "./routes/userRoute.js";
@@ -38,4 +38,4 @@ app.get("/", (req, res) => {
 });
 
 // Start the server
-app.listen(port, () => console.log(`Server started on http://localhost:${port}`));*/
+app.listen(port, () => console.log(`Server started on http://localhost:${port}`));
