@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import './List.css'
-import { url , currency } from '../../assets/assets'
+import { url , currency } from '../../assets/assets.js'
 import axios from 'axios';
 import { toast } from 'react-toastify';
 
