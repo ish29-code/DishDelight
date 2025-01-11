@@ -6,7 +6,7 @@
     background-size:cover;
     position: relative;
     border-radius: 20%;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .header-contents{
     position: absolute;
@@ -22,12 +22,12 @@
 .header-contents h2{
     color: white;
     font-size: 50px;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .header-contents p{
     color: bisque;
     font-size: 18px;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .header-contents button{
     height: 70px;
@@ -43,7 +43,7 @@
     background: #9fcb73;
     font-size: max(1vw,13px);
     border-radius: 50px;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 @media (max-width:1050px) {
     .header{
