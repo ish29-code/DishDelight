@@ -63,7 +63,7 @@
 }
 .add-product-name input, .add-product-description textarea{
      padding: 10px;
-     font-family: "Inter", sans-serif;
+     font-family: "Exo 2", sans-serif;
      font-weight: 400;
      font-size: 18px;
 }
@@ -76,7 +76,7 @@
 .add-category-price select, .add-category-price input{
      max-width: 120px;
      padding: 10px;
-     font-family: "Inter", sans-serif;
+     font-family: "Exo 2", sans-serif;
      font-weight: 500;
      font-size: 19px;
 }
@@ -88,5 +88,5 @@
      color: #f9f0f0;
      cursor: pointer;
      border-radius: 15px;
-     font-family: "Inter", sans-serif;
+     font-family: "Exo 2", sans-serif;
 }
