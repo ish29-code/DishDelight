@@ -1,5 +1,4 @@
 import basket_icon from './basket_icon.png'
-import logo from './logo.png'
 import logo33 from './logo33.png'
 import shoppingcart_icon from './shoppingcart_icon.jpg'
 import Hamburgerbackimage from './Hamburgerbackimage.jpg'
@@ -66,7 +65,6 @@ import checked from './checked.png'
 import un_checked from './un_checked.png'
 
 export const assets = {
-    logo,
     logo33,
     logo334,
     basket_icon,
