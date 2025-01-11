@@ -66,3 +66,12 @@
         padding: 2vw 4vw;
     }
 }
+@media(max-width:480px){
+    .header-contents{
+        max-width: 70%;
+    }
+    .header-contents button{
+        padding: 3vw 5vw;
+        font-size: max(2vw,12px);
+    }
+}
