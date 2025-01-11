@@ -1,4 +1,4 @@
-.add{
+/*.add{
     width: 70%;
     margin-left: max(5vw,25px);
     margin-top: 50px;
@@ -32,4 +32,61 @@
     background-color: black;
     color: white;
     cursor: pointer;
+}*/
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playwrite+DE+Grund:wght@100..400&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+.add{
+     width: 70%;
+     margin-left: max(5vw,25px);
+     margin-top: 50px;
+     color: #322928;
+     font-size: 16px;
+}
+.add form{  
+     gap: 20px; 
+}
+.add-img-upload { 
+     position: relative; 
+     cursor: pointer; 
+}
+.add-img-upload input { 
+     display: none; /* Keep this hidden */
+      
+}
+.add-img-upload img{
+     width: 120px;
+}
+.add-product-name, .add-product-description{
+     width: max(40%,280px);
+}
+.add-product-name input, .add-product-description textarea{
+     padding: 10px;
+     font-family: "Inter", sans-serif;
+     font-weight: 400;
+     font-size: 18px;
+}
+.add-category-price{
+     display: flex;
+     gap: 30px;
+     font-weight: 500;
+     font-size: 19px;
+}
+.add-category-price select, .add-category-price input{
+     max-width: 120px;
+     padding: 10px;
+     font-family: "Inter", sans-serif;
+     font-weight: 500;
+     font-size: 19px;
+}
+.add-btn{
+     max-width: 120px;
+     border: none;
+     padding: 10px;
+     background-color: #eb6d1e;
+     color: #f9f0f0;
+     cursor: pointer;
+     border-radius: 15px;
+     font-family: "Inter", sans-serif;
 }
