@@ -72,20 +72,32 @@
 @media(max-width:480px){
     .header-contents{
         max-width: 70%;
+        position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 1.5vw;
+    max-width: 50%;
+    bottom: 30%;
+    left: 6vw;
+    animation: fadeIn 3s;
     }
      .header-contents h2{
+        color: #cbc6c6;
         font-size: 15px;
+        margin-bottom: 30px;
     }
     .header-contents p{
-        display: none;
+        color: bisque;
+        font-size: 13px;
     }   
     .header-contents button{
-        height: 20px;
+        height: 30px;
         width: 100px;
-        padding: 10px;
-        font-size: 15px;
+        padding: 2vw 4vw;
+        font-size: 12px;
          position: absolute;
-         bottom: -90px;
-         left: -15px;
+         bottom: -30px;
+         left: -3px;
     }
 }
