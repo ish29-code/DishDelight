@@ -8,7 +8,7 @@
     border: 2.5px dotted #f5c63a;
 }
 .cart-total h2{
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
     font-size: 30px;
 }
 
@@ -18,17 +18,17 @@
     align-items: center;
     color: grey;
     font-size: max(1vw, 12px);
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .cart-items-title p{
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
     font-size: 16px;
 }
 
 .cart-items-item {
     margin: 10px 0px;
     color: black;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 
 .cart-items-item img {
@@ -73,10 +73,10 @@
     display: flex;
     justify-content: space-between;
     color: #555555;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .cart-total-details p{
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 
 .cart-total hr {
@@ -92,7 +92,7 @@
     padding: 12px 0px;
     border-radius: 4px;
     cursor: pointer;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
     font-size: 14px;
     font-weight: 600;
 }
@@ -102,7 +102,7 @@
 }
 .cart-promocode p{
     color: #535353;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
     font-size: 16px;
 }
 .cart-promocode-input{
@@ -112,7 +112,7 @@
     align-items: center;
     background-color: #eaeaea;
     border-radius: 4px;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .cart-promocode-input input{
     background: transparent;
@@ -121,7 +121,7 @@
     border: none;
     outline-color: rgb(255, 138, 71);
     padding-left: 10px;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
     font-size: 15px;
 }
 .cart-promocode-input button{
@@ -131,7 +131,7 @@
     border: none;
     color: white;
     border-radius: 4px;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
     font-size: 15px;
     font-weight: 500;
 }
