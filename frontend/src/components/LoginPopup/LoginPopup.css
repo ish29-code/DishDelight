@@ -18,17 +18,17 @@
     padding: 25px 30px;
     border-radius: 8px;
     animation: fadeIn 0.5s;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
     background-color: #c8f7a4;
 }
 .login-popup-title{
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
     display: flex;
     justify-content: space-between;
     align-items: center;
     color: #000;
     font-size: 20px;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .login-popup-title img{
     width: 16px;
@@ -38,14 +38,14 @@
     display: flex;
     flex-direction: column;
     gap: 20px;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .login-popup-inputs input{
     outline: none;
     border: 1px solid #C9C9C9;
     padding: 10px;
     border-radius: 4px;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .login-popup-container button{
     outline: none;
@@ -55,7 +55,7 @@
     font-weight: 700;
     border-radius: 20px;
     background-color: #eb9882f3;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .login-popup-condition{
     display: flex;
