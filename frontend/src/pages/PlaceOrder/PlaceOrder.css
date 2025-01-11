@@ -4,7 +4,7 @@
     justify-content: space-between;
     gap: 50px;
     margin-top: 60px;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .place-order-left{
     width: 100%;
@@ -14,7 +14,7 @@
     font-size: 30px;
     font-weight: 600;
     margin-bottom: 50px;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .place-order-left input{
     margin-bottom: 25px;
@@ -23,7 +23,7 @@
     border: 1px solid whitesmoke;
     border-radius: 4px;
     outline-color: rgb(255, 129, 71);
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .place-order-left .multi-field{
     display: flex;
@@ -41,7 +41,7 @@
     padding: 12px 30px;
     border-radius: 4px;
     cursor: pointer;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
     font-size: 16px;
 }
 .payment{
@@ -53,7 +53,7 @@
 .payment h2{
     margin-top: 30px;
     margin-bottom: 20px;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .payment .payment-option{
     display: flex;
@@ -64,10 +64,10 @@
     border-radius: 4px;
     min-width: 300px;
     cursor: pointer;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .payment-option p{
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Exo 2", sans-serif;
 }
 .payment .payment-option:hover{
     background-color:  #ffe7de;
