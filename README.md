@@ -88,6 +88,17 @@ To Run the project
   npm run dev
 ```
 
+## Deployment
+
+This command for Deployment
+
+ ```bash
+   npm install 
+ ```
+ ```bash
+  npm run build
+```
+
 
 
 ## Challenges 💡💻
