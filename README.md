@@ -118,6 +118,6 @@ To Run the project
 
 ## Check Out DishDelight here⬇️
 
-DishDelight: [https://dishdelight-frontend-0k5f.onrender.com/](https://dishdelight-frontend-0k5f.onrender.com/)
+DishDelight: [https://Dishdelight.com](https://dishdelight-frontend-0k5f.onrender.com)
 
 
