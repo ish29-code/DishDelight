@@ -13,11 +13,11 @@ DishDelight is a comprehensive food delivery application that aims to revolution
 
 - Usage
 
-- API Documentation
+- Running Test
 
 - Challenges
 
-- License
+- Link
 
 - Contact
 
